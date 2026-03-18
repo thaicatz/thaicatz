@@ -1,15 +1,18 @@
-![Image](https://github.com/user-attachments/assets/997fe9b1-37d5-46a9-a510-0ae1fdbc8280)
+![Image](https://github.com/user-attachments/assets/f390804b-8588-4609-a959-4115519a27a3)
 
-<!--
-**thaicatz/thaicatz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+   
+</head>
+<body>
+    <div class="container">
+        <h1>About Me</h1>
+        <p>
+            errr im this close to set myself on fire errrmm ummmm hmmmmm <br>
+            #cancel @azzziracrow shes so mean and evil (real)
+        </p>
+    </div>
+</body>
+</html>
