@@ -12,7 +12,7 @@
         <p>
             errr im this close to set myself on fire errrmm ummmm hmmmmm <br>
             #cancel @azzziracrow shes so mean and evil (real)
-            idk err i like JJK, House MD (Wilson my beloved) HSR, Genshin, WUWA, ALNST umm ummm and currently watching ST and Good Omens
+            idk err i like JJK, House MD (Wilson my beloved) HSR, Genshin, WUWA, BSD, ALNST umm ummm and currently watching ST and Good Omens
         </p>
     </div>
 </body>
