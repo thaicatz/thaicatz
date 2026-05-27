@@ -24,7 +24,7 @@
  
  <div align="center">
       <span style="vertical-align: middle;">★</span>
- <img width="736" height="736" alt="Image" src="https://github.com/user-attachments/assets/7fa49e9f-1da1-4c4c-a0c3-92951e99e551" />
+ <img width="60" height="60" alt="Image" src="https://github.com/user-attachments/assets/7fa49e9f-1da1-4c4c-a0c3-92951e99e551" />
  <span style="vertical-align: middle;">★</span>
 
 </div>
