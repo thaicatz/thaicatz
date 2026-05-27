@@ -12,8 +12,8 @@
         <p>
             errr im this close to set myself on fire errrmm ummmm hmmmmm <br>
             #cancel @azzziracrow shes so mean and evil (real)
-            idk err i like JJK, House MD (Wilson my beloved) HSR, IDV, Genshin, WUWA, BSD, ALNST umm ummm and currently watching Broadchurch and Good Omens 
-            errr errr DONT watch inside man
+            idk err i like JJK, House MD (Wilson my beloved) HSR, IDV, Genshin, WUWA, BSD, ALNST umm ummm and currently watching Hannibal and Rivals (someone kill Tony) 
+            errr errr i also enjoy DT shows and movies (EXCEPT INSIDE MAN AND BAD SAMARITAN)
         </p>
     </div>
 </body>
@@ -24,8 +24,7 @@
  
  <div align="center">
       <span style="vertical-align: middle;">★</span>
-  <img src="https://github.com/user-attachments/assets/be865188-3904-4f9d-b52c-51fc57585e8a" width="60" height="60" alt="pic1"> 
-  <img src="https://github.com/user-attachments/assets/c8602c11-1027-45fb-ad5a-a0a1fbdb5728" width="60" height="60" alt="pic2"> 
+ <img width="736" height="736" alt="Image" src="https://github.com/user-attachments/assets/7fa49e9f-1da1-4c4c-a0c3-92951e99e551" />
  <span style="vertical-align: middle;">★</span>
 
 </div>
